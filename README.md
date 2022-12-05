@@ -1,8 +1,10 @@
 # brag-document
 🗒 Effective note for my full-time job and contribute to community.
+<br>
 ✨ Inspire by **[Doing Great Work at Your Job isn't Enough. You'll Need to Brag Yourself](https://www.youtube.com/watch?v=xv3XnW_eDJI)** session from *[Kan Ouivirach](https://github.com/zkan/brag-documents/blob/main/README.md)*
 
 📌 For another year check at [my portfolio website](https://mikkipastel.web.app/)
+<br>
 🔥 Lastest update in brag document.
 
 #### 👩‍💼 Current
